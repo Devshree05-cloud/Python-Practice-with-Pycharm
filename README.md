@@ -4,7 +4,9 @@
 
 The Python files in this repository include the codes I practised along with necessary comments and deep explanations. 
 
-I didn't just focus on learning syntax, but asked why and how everytime and learnt a lot. Chatgpt was used for problems, explanations and deep understanding and not for writing code. 
+I didn't just focus on learning syntax, but asked why and how everytime and learnt a lot.
+
+!!Chatgpt was used for problems, explanations and deep understanding and not for writing code!!
 
 Topics I covered:
 
